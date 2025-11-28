@@ -1,0 +1,7 @@
+{
+  "name": "PROJECT: MOVING TMU",
+  "description": "A theoretical physics and logistical project to physically relocate Tokyo Metropolitan University campuses to Marunouchi using student-generated kinetic force.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
